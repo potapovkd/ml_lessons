@@ -8,3 +8,4 @@ scipy
 shap
 eli5>=0.13
 jupyterlab
+tqdm
